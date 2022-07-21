@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=h2, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<style>
+
+<!--internal css-->
+h1{
+    font-style: oblique;color: black;
+}
+a{ text-align: center;
+}
+. { text-align: center;
+
+}
+
+</style>
+
+<body>
+    <a href="./">Home</a>
+    <a href="./Assignment 2 part 4/index.html">Menu</a>
+    <a href="./Assignment 2 part3/index.html">About</a>
+    <a href="./Assignment 2 part 5/index.html">Timing</a>
+    <a href="./Assignment 2/index.html">Contact Us</a>
+    
+    
+    <!--inline css  -->
+   <h1 font-style="italic"; text align="center">Uamr's Cuisine</h1> 
+   <hr>
+   <div style="text-align:center;">
+
+   <a href="Home">Home</a>
+   <a href="Menue">Menue</a>
+<a  href="About">About</a>
+<a href="Timing">Timing</a>
+<a  href="Contact Us">Contact Us</a>
+   </div>
+
+<hr>
+<h2 style="text-align:center ;">
+    Contact US
+</h2>
+<Form action="" align="center">
+Name: <input style="text-align: center ;" type="" name="" id="" > <br>
+Email: <input type="text" name="" id=""> <br>
+<Textarea  rows="10" cols="30" >
+Enter your Mesage Here
+</Textarea> <br>
+<button align="center">Send Message </button> <br>
+
+ <hr>
+<h6 style="text-align: center ;"> Copyright @2021 Uamr'S Cuisine.</h6> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+</html>
